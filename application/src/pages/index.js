@@ -44,6 +44,7 @@ export const Home = () => {
       <InfoSectionLight
         image={Image3}
         id="#"
+        
         subtitle="Winter wears"
         title="20-50% Off"
         text="Cras et ligula eget neque ornare tempor et vitae est. Duis et lectus accumsan, mollis dui a, finibus metus. Quisque dui justo, ullamcorper eget luctus id, consectetur eget nunc. In quis arcu erat. Morbi consequat imperdiet lorem, porta porta erat hendrerit vel. Aliquam dignissim purus at dolor posuere euismod."

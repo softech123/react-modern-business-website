@@ -6,6 +6,7 @@ const Buttonb = () =>{
 alert("your item has been added to cart")
     }
     return(
+        
     <button className="button1" onClick={handlebtnclick}>Add to cart</button>
     )
 }

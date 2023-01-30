@@ -11,7 +11,7 @@ const Signin = () => {
   return (
     <SigninContainer>
       <SigninWrapper className="py-5 px-5">
-        <div className="my-auto">
+        <div className="my-auto" style={{backgroundColor: "lightblue"}}>
           <h3 className="center-align mb-5">Sign In to your Account</h3>
           <form>
             <SigninP>Email</SigninP>
