@@ -9,7 +9,7 @@ import {
   ArrowRight,
 } from "./HeroElements";
 import { ButtonR } from "../ButtonElements";
-import Video from "../../videos/bgvideo.mp4";
+import Video from "../../videos/Uhr6.mp4";
 import "../../App.css";
 
 const HeroSection = () => {
@@ -25,10 +25,9 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
       </HeroBg>
       <HeroContent>
-        <h1 className="h1-hero">Reaching Goals Made Easy</h1>
+        <h1 className="h1-hero">Welcome To the World of Shopping</h1>
         <p className="hero-text">
-          Sign up today and recieve $250 in credit for your next sucessfull
-          project.
+         Hurry up to get the unlimited offers
         </p>
         <HeroBtnWrapper>
           <ButtonR to="/signin" onMouseEnter={onHover} onMouseLeave={onHover} primary="true" dark="true">

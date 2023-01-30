@@ -19,7 +19,7 @@ export const InfoSection = ({ id, title, subtitle, text, image, btnText }) => {
               </ButtonBasic>
             </div>
             <div className="col-lg-6 col-sm-12 img-wrap">
-              <img src={image} alt="" className="fit-img"></img>
+              <img src={image} alt="#" className="fit-img"></img>
             </div>
           </div>
         </InfoWrapper>

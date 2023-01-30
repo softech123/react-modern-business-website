@@ -13,29 +13,28 @@ const Footer = () => {
       <FooterWrapper className="container py-5">
         <div className="row gx-5 px-4 gy-4">
           <div className="col-lg-3 col-sm-6">
-            <FooterH2>About Us</FooterH2>
-            <FooterLink href="#">How it works</FooterLink>
-            <FooterLink href="#">Testimonials</FooterLink>
-            <FooterLink href="#">Careers</FooterLink>
-            <FooterLink href="#">Investors</FooterLink>
-            <FooterLink href="#">Terms of Service</FooterLink>
+            <FooterH2>ONLINE SHOPPING</FooterH2>
+            <FooterLink href="#">Beauty</FooterLink>
+            <FooterLink href="#">Gift cards</FooterLink>
+            <FooterLink href="#">Home & living</FooterLink>
+             <FooterLink href="#">Shopping Insider</FooterLink>
           </div>
           <div className="col-lg-3 col-sm-6">
-            <FooterH2>Contact Us</FooterH2>
+            <FooterH2>Useful Links for you</FooterH2>
             <FooterLink href="#">Contact</FooterLink>
             <FooterLink href="#">Support</FooterLink>
             <FooterLink href="#">Destinations</FooterLink>
             <FooterLink href="#">Our Locations</FooterLink>
           </div>
           <div className="col-lg-3 col-sm-6">
-            <FooterH2>Customers</FooterH2>
-            <FooterLink href="#">Our Customers</FooterLink>
-            <FooterLink href="#">How to reach us</FooterLink>
-            <FooterLink href="#">Video Samples</FooterLink>
-            <FooterLink href="#">Agency</FooterLink>
+            <FooterH2>Customer Policies</FooterH2>
+            <FooterLink href="#">Track Orders</FooterLink>
+            <FooterLink href="#">Shipping</FooterLink>
+            <FooterLink href="#">Cancellation</FooterLink>
+            <FooterLink href="#">Returns</FooterLink>
           </div>
           <div className="col-lg-3 col-sm-6">
-            <FooterH2>Follow Us</FooterH2>
+            <FooterH2>Follow Shopaholic</FooterH2>
             <FooterLink href="#">Instagram</FooterLink>
             <FooterLink href="#">Youtube</FooterLink>
             <FooterLink href="#">Facebook</FooterLink>
@@ -44,7 +43,7 @@ const Footer = () => {
         </div>
         <div className="row">
           <div className="col-12 mt-5 ">
-            <h1 className="logo-text gray-text center-align">- syntec -</h1>
+            <h1 className="logo-text gray-text center-align">- Shopaholic-</h1>
           </div>
         </div>
       </FooterWrapper>
